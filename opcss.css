@@ -1,0 +1,12 @@
+h1{
+    color: rgb(17, 17, 58);
+    background-color: rgb(4, 142, 235);
+    border: 1px solid black;
+}
+
+p{
+    color: red;
+}
+body{
+	background-color: cornflowerblue;
+}
